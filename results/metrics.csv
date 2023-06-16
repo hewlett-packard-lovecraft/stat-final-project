@@ -1,3 +1,7 @@
-,tn,fp,fn,tp,precision,recall,f1-score,accuracy
-gptzero,54.0,1.0,21.0,36.0,0.972972972972973,0.631578947368421,0.7659574468085106,0.8035714285714286
-originalityai,49.0,6.0,0.0,57.0,0.9047619047619048,1.0,0.9500000000000001,0.9464285714285714
+classifier,metric,proportion
+gptzero,precision,0.972972972972973
+gptzero,recall,0.631578947368421
+gptzero,accuracy,0.8035714285714286
+originalityai,precision,0.9047619047619048
+originalityai,recall,1.0
+originalityai,accuracy,0.9464285714285714
